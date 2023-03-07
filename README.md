@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Anastassia Sommer 👋
 
 - 🌱 I’m currently learning Front End Development at NorOff School of Technology.
 - 🤔 I’m looking for help with finding a junior developer job.
